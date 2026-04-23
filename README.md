@@ -1,5 +1,5 @@
 # Spotify-Playlist-Uri-Player
-A powershell script that play a playlist from cli
+A powershell script to play a playlist from cli
 
 # Authorization
 get CLIENT_ID and CLIENT_SECRET from https://developer.spotify.com/dashboard
